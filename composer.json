@@ -9,7 +9,7 @@
     },
     "require": {
         "php": "^7.1",
-        "loilo/fuse": "dev-master"
+        "loilo/fuse": "^3.0.5"
     },
     "autoload": {
         "psr-4": {
