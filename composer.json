@@ -2,6 +2,11 @@
     "name": "ugurkorkmaz/jdb",
     "description": "It is a json and file based database package written in php.",
     "type": "library",
+    "keywords": ["nosql","json","database","json database","json nosql"],
+    "support": {
+        "issues": "https://github.com/ugurkorkmaz/jdb/issues",
+        "wiki": "https://github.com/ugurkorkmaz/jdb/wiki"
+    },
     "require": {
         "php": "7.*",
         "loilo/fuse": "dev-master"
