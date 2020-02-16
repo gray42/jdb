@@ -11,7 +11,7 @@
           "JDB\\": "src/"
         }
       },
-    "license": "GPL",
+    "license": "GNU General Public License v3.0",
     "authors": [
         {
             "name": "ugurkorkmaz",
