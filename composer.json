@@ -8,7 +8,7 @@
         "wiki": "https://github.com/ugurkorkmaz/jdb/wiki"
     },
     "require": {
-        "php": "7.*",
+        "php": "^7.1",
         "loilo/fuse": "dev-master"
     },
     "autoload": {
