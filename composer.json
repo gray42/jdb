@@ -1,0 +1,22 @@
+{
+    "name": "ugurkorkmaz/jdb",
+    "description": "It is a json and file based database package written in php.",
+    "type": "library",
+    "require": {
+        "php": "7.*",
+        "loilo/fuse": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+          "JDB\\": "src/"
+        }
+      },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ugurkorkmaz",
+            "email": "korkmaz.uu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
