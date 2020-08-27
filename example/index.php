@@ -1,7 +1,7 @@
 <?php
 require '../vendor/autoload.php';
 
-use JDB\JDB;
+use ugurkorkmaz\JDB;
 
 $jdb = JDB::settings(['path' => 'database/']);
 
